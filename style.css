@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "roboto";
+    src: url(./font/Roboto_SemiCondensed-Medium.ttf);
+}
+
+.grediant{
+    border: 4px solid;
+    border-image: linear-gradient(to right, #4776E6, #8E54E9)1;
+}
+.color{
+    color: #31135E;
+    font-size: 55px;
+    font-family: "roboto";
+}
+.bg{
+    color: #8E54E9;
+    font-size: 52px;
+    font-family: "roboto";
+}
+
+.background{
+    background-image: linear-gradient(to right,#f6f2ff, #8E54E9);
+}
+   
